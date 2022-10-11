@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list-item {
+  width: 46%;
+}
+.image {
+  width: 100%;
+}
+.event-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.event-location {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  margin-top: 0;
+  margin-bottom: 8%;
+  font-size: 18px;
+}
+.event-button {
+  background: transparent;
+  border: none;
+  outline-color: #2dd4bf;
+  cursor: pointer;
+}
